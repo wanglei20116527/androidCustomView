@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlipLayout">
+        <attr name="flipDuration" format="integer"></attr>
+        <attr name="offsetBaseLine" format="dimension"></attr>
+        <attr name="velocityBaseLine" format="dimension"></attr>
+        <attr name="backgroundColor" format="color"></attr>
+        <attr name="foregroundColor" format="color"></attr>
+    </declare-styleable>
+</resources>
